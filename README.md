@@ -1,1 +1,22 @@
-# cv-practical-works-2023
+# cv-practical-works-2023# Project tree
+
+.
+ * [images](./images)
+   * [LF016.jpg](./images/LF016.jpg)
+   * [LF017.jpg](./images/LF017.jpg)
+ * [README.md](./README.md)
+ * [outputs](./outputs) 
+   * [pixel-wise.png](./outputs/pixel-wise.png)
+   * [block-wise-with5.png](./outputs/block-wise-with5.png)
+   * [block-wise-with10.png](./outputs/block-wise-with10.png)
+   * [block-wise-with15.png](./outputs/block-wise-with15.png)
+   * [block-wise-with20.png](./outputs/block-wise-with20.png)
+   * [block-wise-with25.png](./outputs/block-wise-with25.png)
+   * [cv2-block-wise-with5.png](./outputs/cv2-block-wise-with5.png)
+   * [cv2-block-wise-with10.png](./outputs/cv2-block-wise-with10.png)
+   * [cv2-block-wise-with15.png](./outputs/cv2-block-wise-with15.png)
+   * [cv2-block-wise-with20.png](./outputs/cv2-block-wise-with20.png)
+   * [cv2-block-wise-with25.png](./outputs/cv2-block-wise-with25.png)
+ * [tp1_ME.ipynb](./tp1_ME.ipynb)
+ * [dist](./dist)
+     * [tree.sh](./dist/tree.sh)
