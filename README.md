@@ -2,6 +2,6 @@
 
 ## Contenu du dépot
 .
- * [Notebook du projet](./tp1_ME.ipynb)
+ * [Notebook du projet](./notebook.ipynb)
  * [Images analysées](./images)
  * [Fichiers générés](./outputs) 
